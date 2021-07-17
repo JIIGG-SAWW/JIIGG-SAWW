@@ -1,5 +1,4 @@
-- 👋 Hi, I’m JIIGG-SAWW...
-- 🌱 I’m currently learning how to code and create an app for my technology company 
+- 👋 Hi, I’m JIIGG-SAWW...I’m currently learning how to code and create an app for my technology company 
 
 
 <!---
